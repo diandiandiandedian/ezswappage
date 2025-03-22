@@ -4,7 +4,7 @@ async function main () {
 
   // todo 弄白名单注意要修改阶段字段,0:whitemint,1.私募,数据库和合约统一了
   const step = 1
-  const privateKey = '5ebaa9548b914faffe9b0c5c22c4de19792acb3417355fae86fd1e009b4e8c67'
+  const privateKey = ''
 
   const provider = ethers.getDefaultProvider('https://1rpc.io/matic')  //  https://1rpc.io/eth  https://1rpc.io/matic
   const signer = new ethers.Wallet(privateKey, provider)             // 0x7eE147715591cF47358d125D654EA14151Ae7053
