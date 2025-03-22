@@ -18,6 +18,9 @@ const nextConfig = {
       },{
         protocol: "https",
         hostname: "asmatch-resources.s3-accelerate.amazonaws.com",
+      },{
+        protocol: "https",
+        hostname: "storage.googleapis.com",
       },
     ],
   },

@@ -504,6 +504,15 @@
     "order": 8
   },
   {
+    "name": "Meme Is Dead?",
+    "address": "0x8E51D0a7F2DD43B606b3DeCE8EF3D6b14D9A6e5d",
+    "type": "ERC1155",
+    "tokenId1155": "1",
+    "img": "https://storage.googleapis.com/ez_public/tDB84cjhU0VvpX8wmraz.jpg",
+    "network": "arbmain",
+    "order": 7
+  },
+  {
     "name": "M404",
     "address": "0x6B8a2dBdcfE02bee42b8bD5703eC28eb70d9862D",
     "type": "ERC721",
