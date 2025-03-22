@@ -124,7 +124,7 @@ const NFTListView = ({ handleNFTClicked, styleClass }) => {
       if (collectionAddr === '0x6B8a2dBdcfE02bee42b8bD5703eC28eb70d9862D' || collectionAddr === '0x1e8b0244e755211A126ED24027D18787769eF8B3' || collectionAddr === '0x1008bB9C06Ff83f9d5e744A53893baCE03092eB9') {
         fetchNFT()
       }
-    }else if (networkConfig[chain.id].networkName === 'ethmain' || networkConfig[chain.id].networkName === 'arbmain'){
+    }else if (networkConfig[chain.id].networkName === 'ethmain'){
       fetchETHNFT()
     }
   },[owner])

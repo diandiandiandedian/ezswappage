@@ -567,6 +567,13 @@
         "name": "Game Revolution",
         "tokenId1155": "1",
         "img": "https://ezonline.s3.us-west-2.amazonaws.com/arb_launchpad.png"
+      },
+      {
+        "type": "ERC1155",
+        "address": "0x8E51D0a7F2DD43B606b3DeCE8EF3D6b14D9A6e5d",
+        "name": "Meme Is Dead?",
+        "tokenId1155": "1",
+        "img": "https://storage.googleapis.com/ez_public/tDB84cjhU0VvpX8wmraz.jpg"
       }
     ],
     "recommendERC20": [
